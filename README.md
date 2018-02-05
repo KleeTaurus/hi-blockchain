@@ -6,13 +6,19 @@
 
 
 
-## Books
+## eBooks
 
 ["Mastering Bitcoin Open Edition" in Chinese (Simplified)](https://bitcoinbook.info/translations/cmn/book.pdf)
 
 ## Tutorials
 
 [Learn Blockchains by Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
+
+[Let's Build the Tiniest Blockchain In Less Than 50 Lines of Python (Part 1)](https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b)
+
+[Let's Make the Tiniest Blockchain Bigger With More Lines of Python (Part 2)](https://medium.com/crypto-currently/lets-make-the-tiniest-blockchain-bigger-ac360a328f4d)
+
+[Build Your Own Blockchain: A Python Tutorial](http://ecomunsing.com/build-your-own-blockchain)
 
 [Building Blockchain in Go. Part 1: Basic Prototype](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
 
