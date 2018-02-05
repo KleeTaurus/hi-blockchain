@@ -1,10 +1,16 @@
 # Blockchain awesome resources
 
-### Introduction
+## Introductions
 
 [Blockchain Technology Overview](https://csrc.nist.gov/publications/detail/nistir/8202/draft)
 
-### Tutorial
+
+
+## Books
+
+["Mastering Bitcoin Open Edition" in Chinese (Simplified)](https://bitcoinbook.info/translations/cmn/book.pdf)
+
+## Tutorials
 
 [Learn Blockchains by Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
 
@@ -22,6 +28,6 @@
 
 [Building Blockchain in Go. Part 7: Network](https://jeiwan.cc/posts/building-blockchain-in-go-part-7/)
 
-### Whitepaper
+## White papers
 
 [A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
