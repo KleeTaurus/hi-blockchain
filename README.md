@@ -1,10 +1,10 @@
 # Blockchain awesome resources
 
-## Introductions
+## Documents
 
 [Blockchain Technology Overview](https://csrc.nist.gov/publications/detail/nistir/8202/draft)
 
-
+[EOS - An Introduction](https://eos.io/documents/EOS_An_Introduction.pdf)
 
 ## eBooks
 
@@ -36,6 +36,14 @@
 
 [A Gentle Introduction to Ethereum Programming, Part 1](https://blog.zeppelin.solutions/a-gentle-introduction-to-ethereum-programming-part-1-783cc7796094)
 
+## Educations
+
+[Blockchain at Berkeley](https://blockchain.berkeley.edu/)
+
 ## White papers
 
-[A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+
+[Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform](https://github.com/ethereum/wiki/wiki/White-Paper)
+
+[EOS: EOS.IO Technical White Paper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md)
