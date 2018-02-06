@@ -34,6 +34,8 @@
 
 [Building Blockchain in Go. Part 7: Network](https://jeiwan.cc/posts/building-blockchain-in-go-part-7/)
 
+[A Gentle Introduction to Ethereum Programming, Part 1](https://blog.zeppelin.solutions/a-gentle-introduction-to-ethereum-programming-part-1-783cc7796094)
+
 ## White papers
 
 [A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
