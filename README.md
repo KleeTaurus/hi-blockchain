@@ -1,5 +1,9 @@
 # Blockchain awesome resources
 
+这里，你可以获取到最优质的区块链技术资源，内容涵盖区块链原理、公私钥加密/签名、共识机制、智能合约，而区块链作为一种全新商业形态的底层技术已经进入我们的视野，作为一名技术从业人员，Are you ready？
+
+> “当主流媒体还在忙于猜测加密货币价格及其黑市阴谋时，他们已经遗漏了这一切的本质事实。那就是，密码学家们悄然发明了一套全新的技术原型。”
+
 ## Documents
 
 [Blockchain Technology Overview](https://csrc.nist.gov/publications/detail/nistir/8202/draft)
