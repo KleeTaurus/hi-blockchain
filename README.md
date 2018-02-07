@@ -10,6 +10,10 @@
 
 [EOS - An Introduction](https://eos.io/documents/EOS_An_Introduction.pdf)
 
+## Blogs
+
+[What is Blockchain and Smart Contracts? Brief introduction](https://medium.com/startup-grind/gentle-intro-to-blockchain-and-smart-contracts-part-1-3328afca62ab)
+
 ## eBooks
 
 ["Mastering Bitcoin Open Edition" in Chinese (Simplified)](https://bitcoinbook.info/translations/cmn/book.pdf)
