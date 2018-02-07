@@ -44,6 +44,10 @@
 
 [A Gentle Introduction to Ethereum Programming, Part 1](https://blog.zeppelin.solutions/a-gentle-introduction-to-ethereum-programming-part-1-783cc7796094)
 
+[A Gentle Introduction to Ethereum Programming, Part 2](https://blog.zeppelin.solutions/a-gentle-introduction-to-ethereum-programming-part-2-7bbf15e1a953)
+
+[A Gentle Introduction to Ethereum Programming, Part 3](https://blog.zeppelin.solutions/a-gentle-introduction-to-ethereum-programming-part-3-abdd9644d0c2)
+
 ## Educations
 
 [Blockchain at Berkeley](https://blockchain.berkeley.edu/)
