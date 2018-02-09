@@ -14,6 +14,8 @@
 
 [What is Blockchain and Smart Contracts? Brief introduction](https://medium.com/startup-grind/gentle-intro-to-blockchain-and-smart-contracts-part-1-3328afca62ab)
 
+[This is How Smart Contracts and Ethereum Work. Brief Introduction](https://medium.com/startup-grind/gentle-intro-to-blockchain-and-smart-contracts-part-2-30a6c9a40946)
+
 ## eBooks
 
 ["Mastering Bitcoin Open Edition" in Chinese (Simplified)](https://bitcoinbook.info/translations/cmn/book.pdf)
