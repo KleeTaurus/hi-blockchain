@@ -54,6 +54,8 @@
 
 [Part 2: Networking — Code your own blockchain in less than 200 lines of Go!](https://medium.com/@mycoralhealth/part-2-networking-code-your-own-blockchain-in-less-than-200-lines-of-go-17fe1dad46e1)
 
+[Designing the architecture for your Ethereum application](https://blog.zeppelin.solutions/designing-the-architecture-for-your-ethereum-application-9cec086f8317)
+
 ## Educations
 
 [Blockchain at Berkeley](https://blockchain.berkeley.edu/)
