@@ -56,6 +56,8 @@
 
 [Designing the architecture for your Ethereum application](https://blog.zeppelin.solutions/designing-the-architecture-for-your-ethereum-application-9cec086f8317)
 
+[Ethereum Development Walkthrough (Part 1: Smart contracts)](https://hackernoon.com/ethereum-development-walkthrough-part-1-smart-contracts-b3979e6e573e)
+
 ## Educations
 
 [Blockchain at Berkeley](https://blockchain.berkeley.edu/)
