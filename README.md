@@ -16,6 +16,8 @@
 
 [This is How Smart Contracts and Ethereum Work. Brief Introduction](https://medium.com/startup-grind/gentle-intro-to-blockchain-and-smart-contracts-part-2-30a6c9a40946)
 
+[A gentle introduction to blockchain technology](https://bitsonblocks.net/2015/09/09/a-gentle-introduction-to-blockchain-technology/)
+
 ## eBooks
 
 ["Mastering Bitcoin Open Edition" in Chinese (Simplified)](https://bitcoinbook.info/translations/cmn/book.pdf)
@@ -57,6 +59,12 @@
 [Designing the architecture for your Ethereum application](https://blog.zeppelin.solutions/designing-the-architecture-for-your-ethereum-application-9cec086f8317)
 
 [Ethereum Development Walkthrough (Part 1: Smart contracts)](https://hackernoon.com/ethereum-development-walkthrough-part-1-smart-contracts-b3979e6e573e)
+
+[The Blockchain Explained to Web Developers, Part 1: The Theory](https://marmelab.com/blog/2016/04/28/blockchain-for-web-developers-the-theory.html)
+
+[The Blockchain Explained to Web Developers, Part 2: In Practice](https://marmelab.com/blog/2016/05/20/blockchain-for-web-developers-in-practice.html)
+
+[The Blockchain Explained to Web Developers, Part 3: The Truth](https://marmelab.com/blog/2016/06/14/blockchain-for-web-developers-the-truth.html)
 
 ## Educations
 
