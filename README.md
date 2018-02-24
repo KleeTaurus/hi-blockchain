@@ -20,6 +20,8 @@
 
 [How does bitcoin work? I built an app to show you](https://medium.freecodecamp.org/how-does-bitcoin-work-i-built-an-app-to-show-you-f9fcd50bdd0d)
 
+[How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) [Chinese version](https://lilymoana.github.io/ethereum_theory.html)
+
 [A Hitchhiker’s Guide to Consensus Algorithms](https://hackernoon.com/a-hitchhikers-guide-to-consensus-algorithms-d81aae3eb0e3)
 
 ## eBooks
