@@ -78,6 +78,8 @@
 
 [The Blockchain Explained to Web Developers, Part 3: The Truth](https://marmelab.com/blog/2016/06/14/blockchain-for-web-developers-the-truth.html)
 
+[Getting started with Smart Contracts](https://hackernoon.com/getting-started-with-smart-contracts-3085611c95de)
+
 ## Educations
 
 [Blockchain at Berkeley](https://blockchain.berkeley.edu/)
