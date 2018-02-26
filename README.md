@@ -24,6 +24,8 @@
 
 [A Hitchhiker’s Guide to Consensus Algorithms](https://hackernoon.com/a-hitchhikers-guide-to-consensus-algorithms-d81aae3eb0e3)
 
+[Blockchains & Distributed Ledger Technologies](https://blockchainhub.net/blockchains-and-distributed-ledger-technologies-in-general/)
+
 ## eBooks
 
 ["Mastering Bitcoin Open Edition" in Chinese (Simplified)](https://bitcoinbook.info/translations/cmn/book.pdf)
