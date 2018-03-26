@@ -26,6 +26,8 @@
 
 [Blockchains & Distributed Ledger Technologies](https://blockchainhub.net/blockchains-and-distributed-ledger-technologies-in-general/)
 
+[How to store a message in the bitcoin blockchain](https://medium.com/@inthebitcoin/how-to-store-a-message-in-the-bitcoin-blockchain-8d5ac0a8ea88)
+
 ## eBooks
 
 ["Mastering Bitcoin Open Edition" in Chinese (Simplified)](https://bitcoinbook.info/translations/cmn/book.pdf)
