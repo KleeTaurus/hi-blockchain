@@ -97,3 +97,9 @@
 [Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform](https://github.com/ethereum/wiki/wiki/White-Paper) [Chinese version](https://github.com/ethereum/wiki/wiki/%5B中文%5D-以太坊白皮书)
 
 [EOS: EOS.IO Technical White Paper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md)
+
+## Open-source Blockchain
+
+[Chain Core](https://chain.com/technology/)
+
+[BigchainDB](https://www.bigchaindb.com/)
