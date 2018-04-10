@@ -86,6 +86,8 @@
 
 [Getting started with Smart Contracts](https://hackernoon.com/getting-started-with-smart-contracts-3085611c95de)
 
+[Generate Cryptocurrency Private Keys And Public Addresses With Golang](https://www.thepolyglotdeveloper.com/2018/02/generate-cryptocurrency-private-keys-public-addresses-golang/)
+
 ## Educations
 
 [Blockchain at Berkeley](https://blockchain.berkeley.edu/)
