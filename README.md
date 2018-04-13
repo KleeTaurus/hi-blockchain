@@ -88,6 +88,8 @@
 
 [Generate Cryptocurrency Private Keys And Public Addresses With Golang](https://www.thepolyglotdeveloper.com/2018/02/generate-cryptocurrency-private-keys-public-addresses-golang/)
 
+[Bitcoin — Setup your own ⚡lightning ⚡ node on mainnet!](https://medium.com/@ismailakkila/bitcoin-setup-your-own-lightning-node-on-mainnet-94337bda09fa)
+
 ## Educations
 
 [Blockchain at Berkeley](https://blockchain.berkeley.edu/)
