@@ -28,6 +28,8 @@
 
 [How to store a message in the bitcoin blockchain](https://medium.com/@inthebitcoin/how-to-store-a-message-in-the-bitcoin-blockchain-8d5ac0a8ea88)
 
+[Six Things Bitcoin Users Should Know about Private Keys](https://bitzuma.com/posts/six-things-bitcoin-users-should-know-about-private-keys/)
+
 ## eBooks
 
 ["Mastering Bitcoin Open Edition" in Chinese (Simplified)](https://bitcoinbook.info/translations/cmn/book.pdf)
@@ -89,6 +91,10 @@
 [Generate Cryptocurrency Private Keys And Public Addresses With Golang](https://www.thepolyglotdeveloper.com/2018/02/generate-cryptocurrency-private-keys-public-addresses-golang/)
 
 [Bitcoin — Setup your own ⚡lightning ⚡ node on mainnet!](https://medium.com/@ismailakkila/bitcoin-setup-your-own-lightning-node-on-mainnet-94337bda09fa)
+
+[Create A Bitcoin Hardware Wallet With Golang And A Raspberry Pi Zero](https://www.thepolyglotdeveloper.com/2018/03/create-bitcoin-hardware-wallet-golang-raspberry-pi-zero/)
+
+[A Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
 
 ## Educations
 
