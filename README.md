@@ -30,6 +30,8 @@
 
 [Six Things Bitcoin Users Should Know about Private Keys](https://bitzuma.com/posts/six-things-bitcoin-users-should-know-about-private-keys/)
 
+[What are Sidechains?](https://hackernoon.com/what-are-sidechains-1c45ea2daf3)
+
 ## eBooks
 
 ["Mastering Bitcoin Open Edition" in Chinese (Simplified)](https://bitcoinbook.info/translations/cmn/book.pdf)
