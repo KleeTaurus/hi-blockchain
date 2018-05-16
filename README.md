@@ -98,6 +98,8 @@
 
 [A Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
 
+[How To Script An Automatic Token Airdrop for 40k subscribers](https://hackernoon.com/how-to-script-an-automatic-token-airdrop-for-40k-subscribers-e40c8b1a02c6)
+
 ## Educations
 
 [Blockchain at Berkeley](https://blockchain.berkeley.edu/)
