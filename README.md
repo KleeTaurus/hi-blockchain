@@ -104,6 +104,8 @@
 
 [How To Airdrop Your First Token](https://medium.com/bitfwd/how-to-airdrop-your-first-token-3ba187ff7cbf)
 
+[How to write and deploy your first smart contract](https://medium.freecodecamp.org/how-to-write-and-deploy-your-first-smart-contract-341d5e2ffb35)
+
 ## Educations
 
 [Blockchain at Berkeley](https://blockchain.berkeley.edu/)
