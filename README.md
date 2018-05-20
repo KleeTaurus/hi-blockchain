@@ -100,6 +100,10 @@
 
 [How To Script An Automatic Token Airdrop for 40k subscribers](https://hackernoon.com/how-to-script-an-automatic-token-airdrop-for-40k-subscribers-e40c8b1a02c6)
 
+[How to issue your own token on Ethereum in less than 20 minutes](https://medium.com/bitfwd/how-to-issue-your-own-token-on-ethereum-in-less-than-20-minutes-ac1f8f022793)
+
+[How To Airdrop Your First Token](https://medium.com/bitfwd/how-to-airdrop-your-first-token-3ba187ff7cbf)
+
 ## Educations
 
 [Blockchain at Berkeley](https://blockchain.berkeley.edu/)
