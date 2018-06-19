@@ -106,6 +106,14 @@
 
 [How to write and deploy your first smart contract](https://medium.freecodecamp.org/how-to-write-and-deploy-your-first-smart-contract-341d5e2ffb35)
 
+[First steps in EOS Blockchain Development](https://medium.com/@infinitexlabs/first-steps-in-eos-blockchain-development-56824502c799)
+
+[How to setup VS Code and CLion for EOS dApp Development](https://medium.com/@infinitexlabs/how-to-setup-vs-code-and-clion-for-eos-dapp-development-da103f454fd8)
+
+[The ultimate end-to-end EOS dApp development tutorial — Part 1](https://medium.com/coinmonks/the-ultimate-end-to-end-eos-dapp-development-tutorial-part-1-2f99c512086c)
+
+[The ultimate end-to-end EOS dApp development tutorial — Part 2](https://medium.com/coinmonks/the-ultimate-end-to-end-eos-dapp-development-tutorial-part-2-b72d8ece677a)
+
 ## Educations
 
 [Blockchain at Berkeley](https://blockchain.berkeley.edu/)
