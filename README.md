@@ -114,6 +114,10 @@
 
 [The ultimate end-to-end EOS dApp development tutorial — Part 2](https://medium.com/coinmonks/the-ultimate-end-to-end-eos-dapp-development-tutorial-part-2-b72d8ece677a)
 
+[Understanding The eosio.token Contract](https://medium.com/coinmonks/understanding-the-eosio-token-contract-87466b9fdca9)
+
+[EOS Development Learning Resources](https://medium.com/coinmonks/eos-development-learning-resources-d6875196b980)
+
 ## Educations
 
 [Blockchain at Berkeley](https://blockchain.berkeley.edu/)
