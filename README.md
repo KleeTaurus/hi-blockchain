@@ -118,6 +118,8 @@
 
 [EOS Development Learning Resources](https://medium.com/coinmonks/eos-development-learning-resources-d6875196b980)
 
+[Building DApps with EOS.IO (UW Workshop)](https://medium.com/coinmonks/building-dapps-with-eos-io-uw-workshop-29ec6fcbd505)
+
 ## Educations
 
 [Blockchain at Berkeley](https://blockchain.berkeley.edu/)
