@@ -32,6 +32,8 @@
 
 [What are Sidechains?](https://hackernoon.com/what-are-sidechains-1c45ea2daf3)
 
+[MyWish & RSK platforms entered into collaboration to make Bitcoin Smart Contracts](https://medium.com/@VladimirTikhomirov/mywish-rsk-platforms-entered-into-collaboration-to-make-bitcoin-smart-contracts-available-for-20eb404f98be)
+
 ## eBooks
 
 ["Mastering Bitcoin Open Edition" in Chinese (Simplified)](https://bitcoinbook.info/translations/cmn/book.pdf)
