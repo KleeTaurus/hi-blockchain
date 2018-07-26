@@ -122,6 +122,8 @@
 
 [Building DApps with EOS.IO (UW Workshop)](https://medium.com/coinmonks/building-dapps-with-eos-io-uw-workshop-29ec6fcbd505)
 
+[How to write and deploy your first smart contract](https://medium.freecodecamp.org/how-to-write-and-deploy-your-first-smart-contract-341d5e2ffb35)
+
 ## Educations
 
 [Blockchain at Berkeley](https://blockchain.berkeley.edu/)
