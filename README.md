@@ -124,6 +124,8 @@
 
 [How to write and deploy your first smart contract](https://medium.freecodecamp.org/how-to-write-and-deploy-your-first-smart-contract-341d5e2ffb35)
 
+[Learn Solidity — The Ethereum smart contract programming language](https://medium.com/@robbertvermeulen/learn-solidity-the-ethereum-smart-contract-programming-language-7f106fc26d6)
+
 ## Educations
 
 [Blockchain at Berkeley](https://blockchain.berkeley.edu/)
