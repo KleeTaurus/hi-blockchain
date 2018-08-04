@@ -124,6 +124,8 @@
 
 [How to write and deploy your first smart contract](https://medium.freecodecamp.org/how-to-write-and-deploy-your-first-smart-contract-341d5e2ffb35)
 
+[The Hitchhiker’s Guide to Smart Contracts in Ethereum](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
+
 ## Educations
 
 [Blockchain at Berkeley](https://blockchain.berkeley.edu/)
