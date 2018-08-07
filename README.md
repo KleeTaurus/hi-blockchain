@@ -128,6 +128,8 @@
 
 [Learn Solidity — The Ethereum smart contract programming language](https://medium.com/@robbertvermeulen/learn-solidity-the-ethereum-smart-contract-programming-language-7f106fc26d6)
 
+[The dApp Design Pattern](https://medium.com/radarrelay/the-dapp-design-pattern-fe786b8da8a9)
+
 ## Educations
 
 [Blockchain at Berkeley](https://blockchain.berkeley.edu/)
