@@ -130,6 +130,10 @@
 
 [The dApp Design Pattern](https://medium.com/radarrelay/the-dapp-design-pattern-fe786b8da8a9)
 
+[How I’m running a Bitcoin Full Node on Digital Ocean for $35 a month](https://medium.com/@eallam/how-im-running-a-bitcoin-full-node-on-digital-ocean-for-40-a-month-dfc328ba9604)
+
+[Beginner’s Guide to ️⚡Lightning️⚡ on a Raspberry Pi](https://github.com/Stadicus/guides/blob/master/raspibolt/README.md)
+
 ## Educations
 
 [Blockchain at Berkeley](https://blockchain.berkeley.edu/)
