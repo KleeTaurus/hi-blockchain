@@ -134,6 +134,12 @@
 
 [Beginner’s Guide to ️⚡Lightning️⚡ on a Raspberry Pi](https://github.com/Stadicus/guides/blob/master/raspibolt/README.md)
 
+[Bitcoin Lightning Network Node Easy Setup Tutorial for Windows Desktop Users — A how to guide](https://medium.com/@jadmubaslat/bitcoin-lightning-network-node-easy-setup-tutorial-for-windows-desktop-users-a-how-to-guide-9937b5a8a669)
+
+[區塊鏈 Blockchain – 閃電網絡 Lightning Network](https://www.samsonhoi.com/482/blockchain-lightning-network)
+
+[比特币闪电网络介绍](https://junahan.netlify.com/post/bitcoin-lightning-network-introduction/)
+
 ## Educations
 
 [Blockchain at Berkeley](https://blockchain.berkeley.edu/)
