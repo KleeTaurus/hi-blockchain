@@ -34,6 +34,8 @@
 
 [MyWish & RSK platforms entered into collaboration to make Bitcoin Smart Contracts](https://medium.com/@VladimirTikhomirov/mywish-rsk-platforms-entered-into-collaboration-to-make-bitcoin-smart-contracts-available-for-20eb404f98be)
 
+[The Payment Channel Lifecycle](https://dennisreimann.de/articles/lightning-network-payment-channel-lifecycle.html)
+
 ## eBooks
 
 ["Mastering Bitcoin Open Edition" in Chinese (Simplified)](https://bitcoinbook.info/translations/cmn/book.pdf)
@@ -139,6 +141,8 @@
 [區塊鏈 Blockchain – 閃電網絡 Lightning Network](https://www.samsonhoi.com/482/blockchain-lightning-network)
 
 [比特币闪电网络介绍](https://junahan.netlify.com/post/bitcoin-lightning-network-introduction/)
+
+[Understanding the Technical Side of Bitcoin](https://medium.com/@pierre_rochard/understanding-the-technical-side-of-bitcoin-2c212dd65c09?_referrer=twitter)
 
 ## Educations
 
