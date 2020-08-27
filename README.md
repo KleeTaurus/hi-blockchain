@@ -144,6 +144,10 @@
 
 [Understanding the Technical Side of Bitcoin](https://medium.com/@pierre_rochard/understanding-the-technical-side-of-bitcoin-2c212dd65c09?_referrer=twitter)
 
+[Solidity for Beginners · Smart Contract Development Crash Course](https://www.dappuniversity.com/articles/solidity-tutorial)
+
+[The Best Way To Learn Blockchain Programming](https://www.dappuniversity.com/articles/how-to-learn-blockchain-programming)
+
 ## Educations
 
 [Blockchain at Berkeley](https://blockchain.berkeley.edu/)
